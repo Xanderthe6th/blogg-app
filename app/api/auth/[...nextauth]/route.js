@@ -59,6 +59,22 @@ export const authOptions = {
     async encode() {},
     async decode() {},
   },
+  callbacks: {
+    signin: async (profile, account, metadata) => { 
+      const isAllowedToSignIn = true
+      if (isAllowedToSignIn) {
+        return Promise.resolve(true)
+      } else {
+        return Promise.resolve(false)
+      }
+    },
+    session: async (session, token) => { 
+      return Promise.resolve(session)
+    },
+    jwt: async (token, oAuthProfile) => {
+      return Promise.resolve(token)
+     }
+  }
 };
 const handler = NextAuth(authOptions);
 
