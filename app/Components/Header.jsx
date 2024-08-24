@@ -5,7 +5,7 @@ import { toast, ToastContainer } from 'react-toastify'
 import 'react-toastify/dist/ReactToastify.css'
 import Top from './Top'
 const Header = () => {
-  const [email, setEmail] = useState('');
+  const [email, setEmail] = useState('Ugwumsinachi Ogbe');
   const [loading, setLoading] = useState(false)
   const { status, data } = useSession();
   console.log(status);
