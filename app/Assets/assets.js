@@ -1,5 +1,5 @@
 import drawing_logo from "./drawing.png";
-import logo_light from "./writing.png"
+import logo_light from "./writing.png";
 import add from "./add.png";
 import email from "./email.png";
 import facebook from "./facebook.png";
@@ -43,7 +43,7 @@ export const blog_data = [
     id: 1,
     title: "A detailed step by step guide to manage your lifestyle",
     description:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been",
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been...",
     image: istock_1,
     date: Date.now(),
     category: "Lifestyle",
@@ -54,7 +54,7 @@ export const blog_data = [
     id: 2,
     title: "How to create an effective startup roadmap or ideas",
     description:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been",
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been...",
     image: istock_2,
     date: Date.now(),
     category: "Startup",
@@ -65,7 +65,7 @@ export const blog_data = [
     id: 3,
     title: "Learning new technology to boost your career in software",
     description:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been",
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been...",
     image: istock_3,
     date: Date.now(),
     category: "Technology",
@@ -76,7 +76,7 @@ export const blog_data = [
     id: 4,
     title: "Tips for getting the most out of apps and software",
     description:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been",
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been...",
     image: istock_4,
     date: Date.now(),
     category: "Technology",
@@ -87,7 +87,7 @@ export const blog_data = [
     id: 5,
     title: "Enhancing your skills and capturing memorable moments",
     description:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been",
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been...",
     image: istock_5,
     date: Date.now(),
     category: "Lifestyle",
@@ -98,7 +98,7 @@ export const blog_data = [
     id: 6,
     title: "Maximising returns by minimizing resources in your startup",
     description:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been",
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been...",
     image: istock_6,
     date: Date.now(),
     category: "Startup",
@@ -109,7 +109,7 @@ export const blog_data = [
     id: 7,
     title: "Technology for Career advancement in development",
     description:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been",
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been...",
     image: istock_7,
     date: Date.now(),
     category: "Startup",
@@ -120,7 +120,7 @@ export const blog_data = [
     id: 8,
     title: "A comprehensive roadmap for lifestyle management",
     description:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been",
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been...",
     image: istock_8,
     date: Date.now(),
     category: "Startup",
@@ -131,7 +131,7 @@ export const blog_data = [
     id: 9,
     title: "Achieving maximum returns with minimal resources",
     description:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been",
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been...",
     image: istock_9,
     date: Date.now(),
     category: "Startup",
@@ -142,7 +142,7 @@ export const blog_data = [
     id: 10,
     title: "Maximising returns by minimizing resources in your startup",
     description:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been",
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been...",
     image: istock_10,
     date: Date.now(),
     category: "Startup",
@@ -153,7 +153,7 @@ export const blog_data = [
     id: 11,
     title: "Unveiling the secrets of successful startups in technology",
     description:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been",
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been...",
     image: istock_11,
     date: Date.now(),
     category: "Startup",
@@ -164,7 +164,7 @@ export const blog_data = [
     id: 12,
     title: "How to design an online Platform today",
     description:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been",
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been...",
     image: istock_12,
     date: Date.now(),
     category: "Technology",
@@ -175,7 +175,7 @@ export const blog_data = [
     id: 13,
     title: "Maximising returns by minimizing resources in your startup",
     description:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been",
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been...",
     image: istock_13,
     date: Date.now(),
     category: "Lifestyle",
@@ -186,7 +186,7 @@ export const blog_data = [
     id: 14,
     title: "Maximising returns by minimizing resources in your startup",
     description:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been",
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been...",
     image: istock_14,
     date: Date.now(),
     category: "Lifestyle",
@@ -197,7 +197,7 @@ export const blog_data = [
     id: 15,
     title: "Maximising returns by minimizing resources in your startup",
     description:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been",
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been...",
     image: istock_15,
     date: Date.now(),
     category: "Technology",
@@ -208,7 +208,7 @@ export const blog_data = [
     id: 16,
     title: "Shaping the future of startup ecosysytem in the world",
     description:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been",
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been...",
     image: istock_16,
     date: Date.now(),
     category: "Startup",
