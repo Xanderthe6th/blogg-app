@@ -3,8 +3,7 @@ import { assets, blog_data } from '@/app/Assets/assets';
 import Footer from '@/app/Components/Footer';
 import Top from '@/app/Components/Top';
 import Image from 'next/image';
-import { React } from 'react';
-import { useState, useEffect } from 'react';
+import { React, useState, useEffect } from 'react';
 
 
 const Page = ({ params }) => {
