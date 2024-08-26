@@ -1,5 +1,4 @@
 import drawing_logo from "./drawing.png";
-import logo_light from "./writing.png";
 import add from "./add.png";
 import email from "./email.png";
 import facebook from "./facebook.png";
@@ -35,7 +34,6 @@ export const assets = {
   man,
   facebook,
   email,
-  logo_light,
 };
 
 export const blog_data = [
