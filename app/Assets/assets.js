@@ -1,4 +1,5 @@
-import drawing_logo from "./drawing.png";
+import blog_logo from "./blog_logo.png";
+import blog_icon from "./blog.png";
 import add from "./add.png";
 import email from "./email.png";
 import facebook from "./facebook.png";
@@ -6,7 +7,7 @@ import man from "./man.png";
 import arrow from "./arrow-right.png";
 import social from "./social.png";
 import twitter from "./twitter.png";
-import upload from "./upload.png";
+import upload from "./upload_iccoon.png";
 import istock_1 from "./istockphoto-489751933-1024x1024.jpg";
 import istock_2 from "./istockphoto-539073059-1024x1024.jpg";
 import istock_3 from "./istockphoto-831902188-1024x1024.jpg";
@@ -26,7 +27,6 @@ import istock_16 from "./istockphoto-2162083712-1024x1024.jpg";
 
 export const assets = {
   add,
-  drawing_logo,
   twitter,
   social,
   arrow,
@@ -34,6 +34,8 @@ export const assets = {
   man,
   facebook,
   email,
+  blog_logo,
+  blog_icon,
 };
 
 export const blog_data = [
@@ -110,7 +112,7 @@ export const blog_data = [
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been...",
     image: istock_7,
     date: Date.now(),
-    category: "Startup",
+    category: "Technology",
     author: "Alex Bennett",
     author_img: man,
   },
@@ -121,7 +123,7 @@ export const blog_data = [
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been...",
     image: istock_8,
     date: Date.now(),
-    category: "Startup",
+    category: "Lifestyle",
     author: "Alex Bennett",
     author_img: man,
   },
@@ -176,7 +178,7 @@ export const blog_data = [
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been...",
     image: istock_13,
     date: Date.now(),
-    category: "Lifestyle",
+    category: "Startup",
     author: "Alex Bennett",
     author_img: man,
   },
@@ -187,7 +189,7 @@ export const blog_data = [
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been...",
     image: istock_14,
     date: Date.now(),
-    category: "Lifestyle",
+    category: "Startup",
     author: "Alex Bennett",
     author_img: man,
   },
@@ -198,7 +200,7 @@ export const blog_data = [
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been...",
     image: istock_15,
     date: Date.now(),
-    category: "Technology",
+    category: "Startup",
     author: "Alex Bennett",
     author_img: man,
   },
