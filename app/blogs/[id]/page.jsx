@@ -54,7 +54,7 @@ const Page = ({ params }) => {
             </div>
         </div>
         <Footer />
-    </> : <>No item found</>
+    </> : <>Oops!</>
     )
 }
 
